@@ -1,1 +1,1 @@
-my new file content is updated
+my new file content is updated twice
